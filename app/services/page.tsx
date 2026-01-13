@@ -116,7 +116,7 @@ export default function Services() {
             Ready to Get Started?
           </h2>
           <p className="text-gray-300 mb-8 text-lg">
-            Let's discuss how we can help transform your ideas into reality.
+            Let&apos;s discuss how we can help transform your ideas into reality.
           </p>
           <Link
             href="/contact"

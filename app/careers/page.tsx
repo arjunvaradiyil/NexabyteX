@@ -130,11 +130,11 @@ export default function Careers() {
           className="mt-12 bg-gradient-to-r from-primary-500/20 to-primary-600/20 p-8 rounded-lg border border-primary-500/30 text-center"
         >
           <h2 className="text-2xl font-bold mb-4 text-white">
-            Don't see a role that fits?
+            Don&apos;t see a role that fits?
           </h2>
           <p className="text-gray-300 mb-6">
-            We're always looking for talented individuals to join our team. If
-            you're passionate about technology and innovation, we'd love to hear
+            We&apos;re always looking for talented individuals to join our team. If
+            you&apos;re passionate about technology and innovation, we&apos;d love to hear
             from you.
           </p>
           <Link

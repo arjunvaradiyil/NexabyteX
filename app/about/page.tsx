@@ -65,12 +65,12 @@ export default function About() {
           <p className="text-gray-300 text-lg leading-relaxed mb-4">
             NexabyteX was born from a passion for technology and a vision to
             create solutions that matter. As a startup, we understand the
-            challenges that businesses face in today's fast-paced digital
+            challenges that businesses face in today&apos;s fast-paced digital
             landscape. We combine technical expertise with creative thinking to
             deliver solutions that are not just functional, but transformative.
           </p>
           <p className="text-gray-300 text-lg leading-relaxed">
-            Based in Kerala, India, we're building a team of talented developers
+            Based in Kerala, India, we&apos;re building a team of talented developers
             and designers who share our commitment to excellence and innovation.
             Every project we undertake is an opportunity to push boundaries and
             create something extraordinary.

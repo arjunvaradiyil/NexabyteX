@@ -53,7 +53,7 @@ export default function Contact() {
             Get in Touch
           </h1>
           <p className="text-xl text-gray-400">
-            We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
         </motion.div>
 
@@ -130,7 +130,7 @@ export default function Contact() {
                   animate={{ opacity: 1, y: 0 }}
                   className="p-4 bg-green-500/20 border border-green-500/50 rounded-lg text-green-400"
                 >
-                  Thank you! Your message has been sent. We'll get back to you soon.
+                  Thank you! Your message has been sent. We&apos;ll get back to you soon.
                 </motion.div>
               )}
 
@@ -196,12 +196,12 @@ export default function Contact() {
 
             <div className="bg-gradient-to-r from-primary-500/20 to-primary-600/20 p-8 rounded-lg border border-primary-500/30">
               <h3 className="text-xl font-bold mb-4 text-white">
-                Let's Build Something Amazing Together
+                Let&apos;s Build Something Amazing Together
               </h3>
               <p className="text-gray-300 leading-relaxed">
                 Whether you have a project in mind, a question about our
-                services, or just want to say hello, we're here to help. Reach
-                out and let's start a conversation about how we can bring your
+                services, or just want to say hello, we&apos;re here to help. Reach
+                out and let&apos;s start a conversation about how we can bring your
                 digital vision to life.
               </p>
             </div>
